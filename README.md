@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/rafmufc" target="blank"><img src="https://img.shields.io/twitter/follow/rafmufc?logo=twitter&style=for-the-badge" alt="rafmufc" /></a> </p>
 
-- 🔭 I’m currently working on **hatespeech dataset**
+- 🔭 I’m currently working on **Speech project**
 
-- 🌱 I’m currently learning **GANs**
+- 🌱 I’m currently learning **ML/DL for speech processing**
 
 - 👯 I’m looking to collaborate on **ML related projects**
 
