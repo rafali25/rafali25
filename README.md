@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rafali25/Rafprojects](https://github.com/rafali25/Rafprojects)
 
-- 💬 Ask me about **Machine learning, CNNs, Camera Vision**
+- 💬 Ask me about **Machine learning, Speech processing, LLMs**
 
 - 📫 How to reach me **rafworkacc@gmail.com**
 
